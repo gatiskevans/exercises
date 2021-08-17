@@ -10,5 +10,8 @@
     <orderEntry type="module" module-name="04" />
     <orderEntry type="module" module-name="onlinetime" />
     <orderEntry type="module" module-name="arithmetic-operations" />
+    <orderEntry type="module" module-name="arrays" />
+    <orderEntry type="module" module-name="classes_and_objects" />
+    <orderEntry type="module" module-name="flow_of_control" />
   </component>
 </module>
